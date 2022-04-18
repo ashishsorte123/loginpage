@@ -23,6 +23,7 @@ function LoginForm({ Login, error }) {
             value={details.name}
           />
         </div>
+
         <div className="form-group">
           <label htmlFor="email">Email:</label>
           <input
